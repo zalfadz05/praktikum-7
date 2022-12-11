@@ -46,6 +46,9 @@
 
 # >Hasil praktikum 7
 
+![Screenshot (155)](https://user-images.githubusercontent.com/115516617/206908810-d0093c2c-40f0-4586-845a-40a4c357674e.png)
+
+![Screenshot (156)](https://user-images.githubusercontent.com/115516617/206908891-015f9422-fb76-46af-a619-10f0bf410324.png)
 
 
 
